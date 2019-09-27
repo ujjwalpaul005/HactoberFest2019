@@ -1,5 +1,5 @@
 # HactoberFest2019
-![image.png](logo)
+![logo.png](logo)
 
 Contribute in this year's HactoberFest!
 
