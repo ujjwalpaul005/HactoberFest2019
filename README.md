@@ -1,5 +1,5 @@
 # HactoberFest2019
-![logo.png](logo)
+![logo](https://github.com/TomasRoj/HactoberFest2019/blob/master/logo.png)
 
 Contribute in this year's HactoberFest!
 
