@@ -17,3 +17,4 @@ Hey there everyone! I'm Subhajit Chatterjee I am a backend web developer current
 Hello, Everyone! I'm Priyansh Mishra. I just started with github and opensource contribution,I love programming and happy to help on open source.
 Hey Guys my name is Anoop, I am a fullStack Web Developer love to work with php, laravel, nodejs, react, vue etc.
 Hello, I am Kunal Bhatia, I like to work with js, css, illustrator, react, c++ etc.
+Hola, Im Ric John, a Software Engineer. Happy Hacking everyone!
