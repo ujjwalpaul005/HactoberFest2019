@@ -10,4 +10,7 @@ Hello, I am Ajey prasand.....I just started my journey to explore github.
 Hello, I am Pranta Saha, I am a fullStack Web Developer love to work with php, laravel, nodejs, react, vue etc.
 Hello, I am Naman Biyani, I like to contribute to open source projects
 Hello people, My name is Pratyush Tiwari and I am fullstack android developer and web developer(Flask FrameWork). Imagine a world without StacckOverFlow and Github...It's really scary right?
-Hey there everyone ! i'm Subhajit Chatterjee I am a backend web developer currently in my 3rd year, unlike other publc repositories this one is much better. You ask me why, because the readme file is well written and mainted, so kuddos to the maintainer and very best luck for all the people in the Hactoberfest, PEACE OUT.
+Hey there everyone! I'm Subhajit Chatterjee I am a backend web developer currently in my 3rd year, unlike other publc repositories this one is much better. You ask me why, because the readme file is well written and mainted, so kuddos to the maintainer and very best luck for all the people in the Hactoberfest, PEACE OUT.
+Hello, Everyone! I'm Priyansh Mishra. I just started with github and opensource contribution,I love programming and happy to help on open source.
+Hey Guys my name is Anoop, I am a fullStack Web Developer love to work with php, laravel, nodejs, react, vue etc.
+Hello, I am Kunal Bhatia, I like to work with js, css, illustrator, react, c++ etc.
