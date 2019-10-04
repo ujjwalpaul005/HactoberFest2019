@@ -3,6 +3,8 @@
 
 Contribute in this year's HactoberFest!
 
+!!! Due to breaking of hactoberfest rules (high quality pull requests), I need to notify you all that pull requests created in this repository will not count into your 4 pull requests. HOVERVER making you first contribtuion here is still best way how to make your first contribution. Thanks.
+
 ## What and how to start?
 
 All you need to do is to sumbit a pull request with your name and some small greeting for other people here :-D.
