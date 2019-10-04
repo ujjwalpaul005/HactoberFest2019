@@ -12,10 +12,12 @@ Hello, I am Naman Biyani, I like to contribute to open source projects
 Hello people, My name is Pratyush Tiwari and I am fullstack android developer and web developer(Flask FrameWork). Imagine a world without StacckOverFlow and Github...It's really scary right?
 Hello I am Swapnil Tiwari, I am fullstack Web Developer and a data geek!
 Hello! My name is Haris Manzoor... I am a computer scientist from Pakistan. I love to program. Programming is life :)))
-Hello, I am Gerald Halomoan Samosir, I am backend Developer love to use golang, nodejs and python and some times learn about devops , tech is awesome. 
+Hello, I am Gerald Halomoan Samosir, I am backend Developer love to use golang, nodejs and python and some times learn about devops , tech is awesome.
 Hey there everyone! I'm Subhajit Chatterjee I am a backend web developer currently in my 3rd year, unlike other publc repositories this one is much better. You ask me why, because the readme file is well written and mainted, so kuddos to the maintainer and very best luck for all the people in the Hactoberfest, PEACE OUT.
 Hello, Everyone! I'm Priyansh Mishra. I just started with github and opensource contribution,I love programming and happy to help on open source.
 Hey Guys my name is Anoop, I am a fullStack Web Developer love to work with php, laravel, nodejs, react, vue etc.
 Hello, I am Kunal Bhatia, I like to work with js, css, illustrator, react, c++ etc.
 Hola, Im Ric John, a Software Engineer. Happy Hacking everyone!
 Hi , Athul here ,I'm a student who likes to discover new things . Have a good day and happy Hactober!
+Hello Everyone, I am Parth Patel. It's great to see you all here. I am a Web Developer. I also love working with Python, C, C++, Java and Data Structures.  
+Hello everyone, I am Jijinkh. I love coding and experimenting!
