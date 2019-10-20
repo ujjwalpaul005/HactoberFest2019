@@ -44,3 +44,6 @@ Hello! My name is Sankat Mochan. I am new to git and github and wanna contribute
 Hello,I'm Satya Pavan kalyan,I just started with github.
 Hello,I Am Tech4mer.I am very tech enthusiast person
 Hello, I am Mustak. I am an App + Web Developer
+Hello, I am Armideon, I am self taught and new to github.
+Hi, my name is Rajesh Sharma and I'm a full stack developer.
+Hello,I Am Tech4mer.I am very tech enthusiast person
