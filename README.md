@@ -10,6 +10,7 @@ Contribute to this year's Hacktoberfest!
 All you need to do is to submit a pull request with your name and some small greeting for other people here :-D.
 
 ### Okay, but WTF is a pull request?
+nothingh much
 
 Pull request is a request to add your code (or text in this repo) to the original repository. By doing 5 pull requests you can get a limited Hacktoberfest t-shirt! And the main thing, you can help other people with bugs and implement features.
 
