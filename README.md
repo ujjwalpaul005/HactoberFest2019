@@ -4,7 +4,10 @@
 Contribute to this year's Hacktoberfest!
 
 !!! Due to breaking the rules of Hacktoberfest (high quality pull requests), I need to notify you all that pull requests created in this repository will not count into your 4 pull requests. However, making your first contribution here is still the best way how to make your first contribution. Thanks.
+## Rules
 
+Please submit only one pull request at the time and don't spam. Please wait until your pull request is reviewed, it can take some time.
+Don't use dirty words and be welcome for beginners and other people in this community.
 ## What and how to start?
 
 All you need to do is to submit a pull request with your name and some small greeting for other people here :-D.
